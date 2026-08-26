@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Amith 👋
 
-<!--
-**amithshettym7-web/amithshettym7-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🎓 AIML Engineering Student
+- 💻 Learning Full Stack Web Development
+- 🤖 Interested in Artificial Intelligence & Machine Learning
+- 🧠 Currently practicing DSA
+- 🚀 Building real-world projects
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+HTML | CSS | JavaScript | React | Python | Java | DSA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+- YouTube Clone — HTML & CSS
+- Tic Tac Toe
+- Smart Campus
+- AI/ML Projects — Coming Soon
+
+## 📚 Currently Learning
+- React
+- Data Structures & Algorithms
+- Python for AI/ML
+
+## 🎯 Goals
+- Build real-world projects
+- Get a good software engineering internship
+- Contribute to open-source projects
+
+## 📫 Connect With Me
+[LINKEDIN]-https://www.linkedin.com/in/amith-shetty-m-9b9050386?utm_source=share_via&utm_content=profile&utm_medium=member_android
