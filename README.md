@@ -28,3 +28,4 @@ HTML | CSS | JavaScript | React | Python | Java | DSA
 
 ## 📫 Connect With Me
 [LINKEDIN]-https://www.linkedin.com/in/amith-shetty-m-9b9050386?utm_source=share_via&utm_content=profile&utm_medium=member_android
+[EMAIL}=amithshettym7@gmail.com
