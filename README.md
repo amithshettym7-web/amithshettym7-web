@@ -8,7 +8,7 @@
 - 🚀 Building real-world projects
 
 ## 🛠️ Skills
-HTML | CSS | JavaScript | React | Python | Java | DSA
+HTML | CSS | JavaScript | React | Python | Java | DSA | Git | Github | Tailwind CSS | Responsive design
 
 ## 📌 Projects
 - YouTube Clone — HTML & CSS
@@ -25,6 +25,7 @@ HTML | CSS | JavaScript | React | Python | Java | DSA
 - Build real-world projects
 - Get a good software engineering internship
 - Contribute to open-source projects
+- Open to frontend internships
 
 ## 📫 Connect With Me
 [LINKEDIN]-https://www.linkedin.com/in/amith-shetty-m-9b9050386?utm_source=share_via&utm_content=profile&utm_medium=member_android
